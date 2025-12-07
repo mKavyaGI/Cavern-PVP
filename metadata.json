@@ -1,0 +1,5 @@
+{
+  "name": "Caverun PvP",
+  "description": "A minimalist two-device PvP platformer where one player runs and the other places traps.",
+  "requestFramePermissions": []
+}
